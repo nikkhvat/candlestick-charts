@@ -4,12 +4,12 @@
 
 forex (golang) - Microservice that works with Streaming API Key
 - ✅ Getting real-time data (websocket)
-- ✅ Procy web socket server for data 
+- ✅ Proxy web socket server for data 
 - ✅ Save data to db (PostgreSQL)
 - ✅ History rest request (Generate Candlestick chart) (GET) /?startDate /?endDate /?symbol /?timeframe
 - ✅ Get up-to-date data now /?symbol
 
-Raw socket 
+Raw socket data
 ```json
 {
   "symbol": "LTCUSD",
