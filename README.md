@@ -1,3 +1,5 @@
+![bars](./bars.png)
+
 # Forex Data 🚀
 
 forex (golang) - Microservice that works with Streaming API Key
